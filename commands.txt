@@ -1,0 +1,16 @@
+add Tom 0123456789
+add Tom 012345
+add Tom 0951234567
+add Edward 0503007300
+change Tom 0123456789 0671234567
+add Sam 0504567890
+add-birthday Tom 04.03.1987
+add-birthday Edward 05.03.1995
+add-birthday Jane 04.10.1961
+all
+birthdays
+show-birthday Tom
+show-birthday Tommy
+show-birthday Sam
+phone Tom
+phone Tommy
