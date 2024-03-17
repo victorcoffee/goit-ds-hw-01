@@ -1,11 +1,8 @@
 # Модуль 1.
 
-import os, re, datetime
+import re, datetime
 from collections import UserDict
 import pickle
-
-os.system("cls")
-
 
 # Декоратор обробляє винятки, що виникають у функціях
 def input_error(func):
